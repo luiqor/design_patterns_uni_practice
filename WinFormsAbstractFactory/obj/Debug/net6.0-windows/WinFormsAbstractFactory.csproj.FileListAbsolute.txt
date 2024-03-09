@@ -1,0 +1,16 @@
+E:\dz ipz\ookp2\OOKP2_factory\WinFormsAbstractFactory\bin\Debug\net6.0-windows\WinFormsAbstractFactory.exe
+E:\dz ipz\ookp2\OOKP2_factory\WinFormsAbstractFactory\bin\Debug\net6.0-windows\WinFormsAbstractFactory.deps.json
+E:\dz ipz\ookp2\OOKP2_factory\WinFormsAbstractFactory\bin\Debug\net6.0-windows\WinFormsAbstractFactory.runtimeconfig.json
+E:\dz ipz\ookp2\OOKP2_factory\WinFormsAbstractFactory\bin\Debug\net6.0-windows\WinFormsAbstractFactory.dll
+E:\dz ipz\ookp2\OOKP2_factory\WinFormsAbstractFactory\bin\Debug\net6.0-windows\WinFormsAbstractFactory.pdb
+E:\dz ipz\ookp2\OOKP2_factory\WinFormsAbstractFactory\obj\Debug\net6.0-windows\WinFormsAbstractFactory.Form1.resources
+E:\dz ipz\ookp2\OOKP2_factory\WinFormsAbstractFactory\obj\Debug\net6.0-windows\WinFormsAbstractFactory.csproj.GenerateResource.cache
+E:\dz ipz\ookp2\OOKP2_factory\WinFormsAbstractFactory\obj\Debug\net6.0-windows\WinFormsAbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\dz ipz\ookp2\OOKP2_factory\WinFormsAbstractFactory\obj\Debug\net6.0-windows\WinFormsAbstractFactory.AssemblyInfoInputs.cache
+E:\dz ipz\ookp2\OOKP2_factory\WinFormsAbstractFactory\obj\Debug\net6.0-windows\WinFormsAbstractFactory.AssemblyInfo.cs
+E:\dz ipz\ookp2\OOKP2_factory\WinFormsAbstractFactory\obj\Debug\net6.0-windows\WinFormsAbstractFactory.csproj.CoreCompileInputs.cache
+E:\dz ipz\ookp2\OOKP2_factory\WinFormsAbstractFactory\obj\Debug\net6.0-windows\WinFormsAbstractFactory.dll
+E:\dz ipz\ookp2\OOKP2_factory\WinFormsAbstractFactory\obj\Debug\net6.0-windows\refint\WinFormsAbstractFactory.dll
+E:\dz ipz\ookp2\OOKP2_factory\WinFormsAbstractFactory\obj\Debug\net6.0-windows\WinFormsAbstractFactory.pdb
+E:\dz ipz\ookp2\OOKP2_factory\WinFormsAbstractFactory\obj\Debug\net6.0-windows\WinFormsAbstractFactory.genruntimeconfig.cache
+E:\dz ipz\ookp2\OOKP2_factory\WinFormsAbstractFactory\obj\Debug\net6.0-windows\ref\WinFormsAbstractFactory.dll
