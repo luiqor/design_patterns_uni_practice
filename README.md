@@ -1,4 +1,4 @@
-#OOKP_lab2
+# OOKP_lab2
 
 Task:
 Apply the Strategy pattern in the code for the following task:
