@@ -1,0 +1,33 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.div-main-page{
+    height: 1200px;
+}
+
+.organization-info-tree {
+    margin-left: 50%;
+    height: 100px;
+}
+
+.organization-action {
+    width: 50%; 
+    height: 100px; 
+    float: left;
+}

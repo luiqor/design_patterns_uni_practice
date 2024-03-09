@@ -1,0 +1,94 @@
+﻿@model List<string>
+
+
+    <title>Organization Info</title>
+    <style>
+        .organization-info {
+            margin-left: 20px;
+        }
+
+        /* CSS classes changing dynamically */
+        @for (int i = 1; i <= Model.Count; i++)
+        {
+            <text>
+                .organization-string-@i {
+                    margin-left: @(20 * i)px;
+                }
+            </text>
+        }
+    </style>
+    
+
+    <div class="div-main-page">
+    <div class="align-content-center">
+        <h1>Organization Info</h1>
+    </div>
+    <div class="organization-action">
+    <form asp-action ="Index">
+        <h3>Отримання інформації про ієрархію</h3>
+        <input type="text" name="componentName" placeholder="Відділ ..." id="organization_input" required>
+        <br />
+        <h6>Бажаєте бачити відділи?</h6>
+        <label><input type="radio" value="true" name="isDepartment" required checked="checked"/>Yes</label>
+        <label><input type="radio" value="false" name="isDepartment" />No</label>
+        <br />
+        <br />
+        <h6>Бажаєте бачити працівників?</h6>
+        <label><input type="radio" value="true" name="isEmployee" required checked="checked"/>Yes</label>
+        <label><input type="radio" value="false" name="isEmployee" />No</label>
+        <br />
+        <input type="submit" name="start_function" value="OK" class="fancy_button"/>
+    </form>
+
+    <form asp-action ="EmloyeeAddRemove">
+        <h3>Прийняття/звільнення</h3>
+        <input type="text" name="userwrittenName" placeholder="Співробітник ..." id="organization_input" required>
+        <input type="text" name="userwrittenPosition" placeholder="Посада ..." id="organization_input" required>
+        <input type="text" name="userwrittenDep" placeholder="Відділу ..." id="organization_input" required>
+        <br />
+        <label><input type="radio" value="true" name="isAdding" required/>Прийняти</label>
+        <label><input type="radio" value="false" name="isAdding" />Звільнити</label>
+        <br />
+        <input type="submit" name="start_function" value="OK" class="fancy_button"/>
+    </form>
+
+    <form asp-action ="EmloyeeTransfer">
+        <h3>Переведення</h3>
+        <input type="text" name="userwrittenName" placeholder="Співробітник ..." id="organization_input" required>
+        <input type="text" name="userwrittenPosition" placeholder="з посадою ..." id="organization_input" required>
+        <input type="text" name="oldDepartment" placeholder="з відділу ..." id="organization_input" required>
+        <br />
+        <input type="text" name="newDepartment" placeholder="У відділ ..." id="organization_input" required>
+        <br />
+        <input type="submit" name="start_function" value="OK" class="fancy_button"/>
+    </form>
+
+     <form asp-action ="EmloyeePositionChange">
+        <h3>Зміна посади</h3>
+        <input type="text" name="userwrittenName" placeholder="Співробітник ..." id="organization_input" required>
+        <input type="text" name="oldPosotion" placeholder="Стара посада..." id="organization_input" required>
+        <input type="text" name="userwrittenDep" placeholder="з відділу ..." id="organization_input" required>
+        <br />
+        <input type="text" name="newPosition" placeholder="Нова посада..." id="organization_input" required>
+        <br />
+        <input type="submit" name="start_function" value="OK" class="fancy_button"/>
+    </form>
+
+    <form asp-action ="DepartmentAddRemove">
+        <h3>Видалення/додавання відділу</h3>
+        <input type="text" name="departmentName" placeholder="Відділ ..." id="organization_input" required>
+        <input type="text" name="ancestorDepName" placeholder="Батьківський відділ..." id="organization_input" required>
+        <br />
+        <label><input type="radio" value="true" name="isAdding" required/>Додати</label>
+        <label><input type="radio" value="false" name="isAdding" />Видалити</label>
+        <br />
+        <input type="submit" name="start_function" value="OK" class="fancy_button"/>
+    </form>
+    </div>
+    <div class="organization-info-tree">
+    @foreach (var item in Model)
+    {
+            @Html.Raw(item)
+    }
+    </div>
+</div>
