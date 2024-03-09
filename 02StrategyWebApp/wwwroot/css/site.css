@@ -1,0 +1,70 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.div-framed {
+    width: 700px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin: 20px auto;
+    align-items: center;
+}
+
+.div_result_num {
+    height: 50px;
+    width: 600px;
+    margin: 10px auto;
+    background-color: white;
+}
+
+.fancy_button{
+    height: 40px;
+    width: 80px;
+    margin: 20px auto;
+    border: 1px solid gray;
+    border-radius: 5px
+}
+
+.fancy_button:focus {
+    background-color: paleturquoise;
+    border: 1px solid turquoise;
+}
+/* HIDE RADIO */
+[type=radio] {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+/* IMAGE STYLES */
+[type=radio] + img {
+    cursor: pointer;
+}
+
+/* CHECKED STYLES */
+[type=radio]:checked + img {
+    background-color: paleturquoise;
+    padding: 20px;
+}
+

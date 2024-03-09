@@ -1,0 +1,14 @@
+E:\dz ipz\ookp2\OOKP2_factory\StrategyPatternConsoleApp\obj\Debug\net6.0\02StrategyPatternConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\dz ipz\ookp2\OOKP2_factory\StrategyPatternConsoleApp\obj\Debug\net6.0\02StrategyPatternConsoleApp.AssemblyInfoInputs.cache
+E:\dz ipz\ookp2\OOKP2_factory\StrategyPatternConsoleApp\obj\Debug\net6.0\02StrategyPatternConsoleApp.AssemblyInfo.cs
+E:\dz ipz\ookp2\OOKP2_factory\StrategyPatternConsoleApp\obj\Debug\net6.0\02StrategyPatternConsoleApp.csproj.CoreCompileInputs.cache
+E:\dz ipz\ookp2\OOKP2_factory\StrategyPatternConsoleApp\bin\Debug\net6.0\02StrategyPatternConsoleApp.exe
+E:\dz ipz\ookp2\OOKP2_factory\StrategyPatternConsoleApp\bin\Debug\net6.0\02StrategyPatternConsoleApp.deps.json
+E:\dz ipz\ookp2\OOKP2_factory\StrategyPatternConsoleApp\bin\Debug\net6.0\02StrategyPatternConsoleApp.runtimeconfig.json
+E:\dz ipz\ookp2\OOKP2_factory\StrategyPatternConsoleApp\bin\Debug\net6.0\02StrategyPatternConsoleApp.dll
+E:\dz ipz\ookp2\OOKP2_factory\StrategyPatternConsoleApp\bin\Debug\net6.0\02StrategyPatternConsoleApp.pdb
+E:\dz ipz\ookp2\OOKP2_factory\StrategyPatternConsoleApp\obj\Debug\net6.0\02StrategyPatternConsoleApp.dll
+E:\dz ipz\ookp2\OOKP2_factory\StrategyPatternConsoleApp\obj\Debug\net6.0\refint\02StrategyPatternConsoleApp.dll
+E:\dz ipz\ookp2\OOKP2_factory\StrategyPatternConsoleApp\obj\Debug\net6.0\02StrategyPatternConsoleApp.pdb
+E:\dz ipz\ookp2\OOKP2_factory\StrategyPatternConsoleApp\obj\Debug\net6.0\02StrategyPatternConsoleApp.genruntimeconfig.cache
+E:\dz ipz\ookp2\OOKP2_factory\StrategyPatternConsoleApp\obj\Debug\net6.0\ref\02StrategyPatternConsoleApp.dll

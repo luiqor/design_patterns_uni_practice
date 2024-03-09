@@ -1,0 +1,34 @@
+﻿@model string
+@{
+    ViewData["Title"] = "Calculator";
+}
+@{
+    string polygonTypeValue = ViewData["polygonType"] as string;
+    string sideLengthValue = ViewData["sideLength"] as string;
+}
+
+<div class="text-center">
+    <h1>Regular Polygon Area Calculator</h1>
+    <form asp-action ="Index">
+        <h4>Choose one of regular polygons:</h4>
+        <label><input type="radio" class="option" value="Triangle" name="polygonType" required /><img src="images/up-arrow.png" /> <br>Triangle</label>
+        <label><input type="radio" class="option" value="Quadrangle" name="polygonType" /><img src="images/square-shape-outline.png" /><br>Quadrangle</label>
+        <label><input type="radio" class="option" value="Hexagon" name="polygonType" /><img src="images/hexagon.png" /><br>Hexagon</label>
+        <label><input type="radio" class="option" value="Octagon" name="polygonType" /><img src="images/octagon.png" /><br>Octagon</label>
+        <br><br>
+        <label for="side_length">Side length</label>
+        <input type="text" name="sideLength" placeholder="3,14159265" id="side_length" required>
+        <br>
+        <input type="submit" name="calculate" value="OK" class="fancy_button"/>
+    </form>
+
+
+    <div class="div-framed">
+        <h4>Result:</h4>
+        <div class="div_result_num"><h2>@Model</h2></div>
+    </div>
+    @if (!string.IsNullOrEmpty(polygonTypeValue) && !string.IsNullOrEmpty(sideLengthValue))
+    {
+        <p>Area of regular @polygonTypeValue with a side length of @sideLengthValue</p>
+    }
+</div>

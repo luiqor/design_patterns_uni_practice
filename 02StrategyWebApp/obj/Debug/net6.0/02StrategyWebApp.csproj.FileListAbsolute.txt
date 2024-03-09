@@ -1,0 +1,90 @@
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\bin\Debug\net6.0\appsettings.Development.json
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\bin\Debug\net6.0\appsettings.json
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.staticwebassets.runtime.json
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.exe
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.deps.json
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.runtimeconfig.json
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.dll
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.pdb
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.AssemblyInfoInputs.cache
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.AssemblyInfo.cs
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.csproj.CoreCompileInputs.cache
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.RazorAssemblyInfo.cache
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.RazorAssemblyInfo.cs
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.02StrategyWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.02StrategyWebApp.props
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.02StrategyWebApp.props
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.02StrategyWebApp.props
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\scopedcss\bundle\02StrategyWebApp.styles.css
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\scopedcss\projectbundle\02StrategyWebApp.bundle.scp.css
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.dll
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\refint\02StrategyWebApp.dll
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.pdb
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.genruntimeconfig.cache
+E:\dz ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\ref\02StrategyWebApp.dll
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\bin\Debug\net6.0\appsettings.Development.json
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\bin\Debug\net6.0\appsettings.json
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.staticwebassets.runtime.json
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.exe
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.deps.json
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.runtimeconfig.json
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.dll
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.pdb
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.AssemblyInfoInputs.cache
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.AssemblyInfo.cs
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.csproj.CoreCompileInputs.cache
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.RazorAssemblyInfo.cache
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.RazorAssemblyInfo.cs
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.02StrategyWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.02StrategyWebApp.props
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.02StrategyWebApp.props
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.02StrategyWebApp.props
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\scopedcss\bundle\02StrategyWebApp.styles.css
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\scopedcss\projectbundle\02StrategyWebApp.bundle.scp.css
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.dll
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\refint\02StrategyWebApp.dll
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.pdb
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.genruntimeconfig.cache
+E:\fit_ipz\ookp2\OOKP2_factory\02StrategyWebApp\obj\Debug\net6.0\ref\02StrategyWebApp.dll
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\bin\Debug\net6.0\appsettings.Development.json
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\bin\Debug\net6.0\appsettings.json
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.staticwebassets.runtime.json
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.exe
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.deps.json
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.runtimeconfig.json
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.dll
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\bin\Debug\net6.0\02StrategyWebApp.pdb
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.AssemblyInfoInputs.cache
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.AssemblyInfo.cs
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.csproj.CoreCompileInputs.cache
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.RazorAssemblyInfo.cache
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.RazorAssemblyInfo.cs
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.02StrategyWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.02StrategyWebApp.props
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.02StrategyWebApp.props
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.02StrategyWebApp.props
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\scopedcss\bundle\02StrategyWebApp.styles.css
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\scopedcss\projectbundle\02StrategyWebApp.bundle.scp.css
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.dll
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\refint\02StrategyWebApp.dll
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.pdb
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\02StrategyWebApp.genruntimeconfig.cache
+E:\fit_ipz\ookp2\OOKP2_lab2\02StrategyWebApp\obj\Debug\net6.0\ref\02StrategyWebApp.dll
